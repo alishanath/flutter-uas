@@ -1,16 +1,11 @@
-# uasmpl
+# UAS Mobile Programming Lanjut
 
-A new Flutter project.
+Project UAS berisi tentang Duplicate Application. Kami menggunakan contoh aplikasi catatan yaitu Google Keep.
 
-## Getting Started
+## Tentang Kelompok Kami :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Nama | NIM |
+|----------|----------|
+| Alisha Nathania Septianty | STI202102228 |
+| Devita Apriliani | STI202102300 |
+| Esther Oktavia Hotoroe | STI202102574 |
