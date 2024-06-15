@@ -16,7 +16,12 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Google Keep Clone',
         theme: ThemeData(
-          primarySwatch: Colors.blue,
+          primarySwatch: Colors.yellow,
+          colorScheme: ColorScheme.fromSwatch(
+            primarySwatch: Colors.yellow,
+          ).copyWith(
+            secondary: Colors.orange,
+          ),
         ),
         home: HomeScreen(),
         routes: {
